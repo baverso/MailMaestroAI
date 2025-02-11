@@ -1,3 +1,5 @@
+##MailMaestroAI##
+```
 email_responder_agent_project/
 ├── agent/
 │   ├── __init__.py
@@ -25,3 +27,4 @@ email_responder_agent_project/
 ├── main.py                         # Main entry point for testing (e.g., listing Gmail labels)
 ├── requirements.txt                # List of Python dependencies
 └── README.md                       # Project documentation and setup instructions
+```

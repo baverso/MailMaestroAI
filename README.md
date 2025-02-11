@@ -1,4 +1,5 @@
-##MailMaestroAI##
+# MailMaestroAI
+
 ```
 email_responder_agent_project/
 ├── agent/
